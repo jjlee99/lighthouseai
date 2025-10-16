@@ -1,0 +1,15 @@
+,Data Type,Missing Values%,Unique Values%,Minimum Value,Maximum Value,DQ Issue
+age,float64,0.0,NA,2.833213344056216,4.499809670330265,No issue
+workclass,int64,0.0,0,0.0,8.0,Column has 14930 outliers greater than upper bound (3.00) or lower than lower bound(3.00). Cap them or remove them.
+fnlwgt,float64,0.0,NA,9.41613428495528,14.214555098269516,Column has 2657 outliers greater than upper bound (13.43) or lower than lower bound(10.62). Cap them or remove them.
+educational-num,float64,0.0,NA,0.0,2.772588722239781,Column has 2543 outliers greater than upper bound (2.92) or lower than lower bound(1.77). Cap them or remove them.
+marital-status,int64,0.0,0,0.0,6.0,No issue
+occupation,int64,0.0,0,0.0,14.0,No issue
+relationship,int64,0.0,0,0.0,5.0,No issue
+race,int64,0.0,0,0.0,4.0,Column has 7076 outliers greater than upper bound (4.00) or lower than lower bound(4.00). Cap them or remove them.
+gender,int64,0.0,0,0.0,1.0,No issue
+capital-gain,float64,0.0,NA,0.0,11.512925464970229,Column has 4035 outliers greater than upper bound (0.00) or lower than lower bound(0.00). Cap them or remove them.
+capital-loss,float64,0.0,NA,0.0,8.379539026117442,Column has 2282 outliers greater than upper bound (0.00) or lower than lower bound(0.00). Cap them or remove them.
+hours-per-week,float64,0.0,NA,0.0,4.59511985013459,Column has 13508 outliers greater than upper bound (3.98) or lower than lower bound(3.51). Cap them or remove them.
+native-country,int64,0.0,0,0.0,41.0,Column has 4998 outliers greater than upper bound (38.00) or lower than lower bound(38.00). Cap them or remove them.
+income,int64,0.0,0,0.0,1.0,No issue
