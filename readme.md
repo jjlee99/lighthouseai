@@ -123,12 +123,6 @@ pip install pandas numpy scikit-learn xgboost pycaret fairlearn aif360 matplotli
 
 편향 제거 이전:
 
-date,col_nm,demographic_parity_difference,demographic_parity_ratio,equalized_odds_difference,equalized_odds_ratio
-2024-10-18,all,0.462205,0.407430,0.697368,0.302632
-2024-10-18,gender,0.346402,0.484879,0.517264,0.381217
-2024-10-18,race,0.159876,0.724614,0.193731,0.667889
-
-
 
 
 | date       | col_nm | demographic_parity_difference | demographic_parity_ratio | equalized_odds_difference | equalized_odds_ratio |
