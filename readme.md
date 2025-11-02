@@ -186,7 +186,7 @@ pip install pandas numpy scikit-learn xgboost pycaret fairlearn aif360 matplotli
 
 
 
-🙏 Acknowledgements
+### 🙏 참조
 
 특허: 등록특허 제10-2669206호
 오픈소스: IBM AIF360, Fairlearn, Scikit-learn, PyCaret 등
